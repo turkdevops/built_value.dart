@@ -1,5 +1,5 @@
 # Built Values for Dart
-[![Build Status](https://travis-ci.org/google/built_value.dart.svg?branch=master)](https://travis-ci.org/google/built_value.dart)
+[![Build Status](https://travis-ci.org/google/built_value.dart.svg?branch=master)](https://travis-ci.org/google/built_value.dart) [![Join the chat at https://beta.gitter.im/turkdevops/dart](https://badges-beta.gitter.im/turkdevops/dart.svg)](https://beta.gitter.im/turkdevops/dart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ## Introduction
 
 Built Value provides:
